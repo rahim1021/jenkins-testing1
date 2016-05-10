@@ -1,5 +1,5 @@
 public class OneClass{
-    //public Static Integer inputNumber=10;first change in jenkinsss fa
+    //public Static Integer inputNumber=10;first change in jenkinsss fas
     public void checkEvenOdd(Integer inputNumber)
     {
         if(Math.Mod(inputNumber,2)==0)
